@@ -32,6 +32,7 @@ jspm_packages/
 .cache
 .venv
 .env
+package-lock.json
 /test-reports/
 junit.xml
 /coverage/
